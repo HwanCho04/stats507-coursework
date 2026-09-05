@@ -1,1 +1,1 @@
-# DataSci_507
+# stats507-coursework
